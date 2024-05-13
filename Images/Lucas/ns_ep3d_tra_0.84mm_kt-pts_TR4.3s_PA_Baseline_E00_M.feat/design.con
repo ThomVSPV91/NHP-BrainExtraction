@@ -1,0 +1,18 @@
+/ContrastName1	perfusion activation 
+/ContrastName2	-perfusion activation 
+/ContrastName3	BOLD 
+/ContrastName4	-BOLD 
+/ContrastName5	control-tag baseline 
+/ContrastName6	control-tag -baseline 
+/NumWaves	1
+/NumContrasts	6
+/PPheights		1.000000e+00	1.000000e+00	1.000000e+00	1.000000e+00	1.000000e+00	1.000000e+00
+/RequiredEffect		145.838	145.838	145.838	145.838	145.838	145.838
+
+/Matrix
+1.000000e+00 
+-1.000000e+00 
+1.000000e+00 
+-1.000000e+00 
+1.000000e+00 
+-1.000000e+00 

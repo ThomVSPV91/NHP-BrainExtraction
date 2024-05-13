@@ -1,0 +1,6 @@
+</pre><hr>Initialisation<br><pre>
+
+/Users/tl275136/fsl/bin/fslmaths /Users/tl275136/fMRI/Lucas/ns_ep3d_tra_0.84mm_kt-pts_TR4.3s_PA_Baseline_E00_M prefiltered_func_data -odt float
+Total original volumes = 4
+
+/Users/tl275136/fsl/bin/fslroi prefiltered_func_data example_func 2 1
