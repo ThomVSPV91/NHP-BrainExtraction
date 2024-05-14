@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-import torch
-import torch.nn as nn
+import torch 
+import torch.nn as nn 
 from function import predict_volumes
 from model import UNet2d
 import os, sys
